@@ -1,7 +1,3 @@
-Project Demo : https://funny-daffodil-350bc9.netlify.app/  
-
-
-
 
 # Rentlelo - Your Real Estate Rental Solution
 
@@ -37,14 +33,10 @@ We welcome contributions from the community to enhance Rentlelo further. Feel fr
 
 
 ## screenshot
-![screencapture-funny-daffodil-350bc9-netlify-app-2023-06-18-13_10_37]
+![rental](https://github.com/dhananjayverma/Real-estate-website/assets/108890988/cd0063f5-037c-47a2-850f-982caf9f2037)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-For any inquiries or support, please contact us at rentlelo@example.com.
-
+## demo :- <a href="">Click me </a>
 
 
 **Experience the convenience of finding your next rental property with Rentlelo today!**
